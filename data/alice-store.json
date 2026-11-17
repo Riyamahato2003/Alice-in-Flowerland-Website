@@ -1,0 +1,1796 @@
+{
+  "catalogue": [
+    {
+      "id": "lace-ohara-peony-bouquet",
+      "slug": "lace-ohara-peony-bouquet",
+      "name": "Scalloped Lace Pink Peony Bouquet",
+      "collection": "signature-bouquets",
+      "collectionTitle": "Signature Bouquets",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Mother’s Day & Gratitude",
+        "Weddings & Bridal"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "classic-9-stems",
+          "label": "Boutique Size (Fresh Peony Cluster)",
+          "price": 1850000
+        },
+        {
+          "id": "grand-15-stems",
+          "label": "Grand Couture Statement (Full Lush Dome)",
+          "price": 1850000
+        }
+      ],
+      "colourOptions": [
+        "Blush Pink Peony",
+        "Pearl Ivory",
+        "Lavender & Blush"
+      ],
+      "wrappingOptions": [
+        "Scalloped Embroidered Floral Lace & Silk Bow",
+        "Matte Pearl Architectural Wrap"
+      ],
+      "inStock": true,
+      "featured": true,
+      "leadTimeNote": "Price on Request · Hand-tied with silk pink satin bow & heart clip card",
+      "description": "Lush pink double peonies framed in multi-layered cream scalloped floral embroidery lace and finished with an oversized blush silk ribbon bow and our signature Alice in Flowerland keepsake card.",
+      "craftDetails": [
+        "Imported fresh garden peonies hydrated for transit in Saigon",
+        "Signature embroidered lace cuffs & oversized silk satin ribbon tie",
+        "Includes bespoke message card & care guide"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_1e6ce9f1.png",
+          "alt": "Alice in Flowerland all-pink peony bouquet wrapped in scalloped embroidered cream lace with oversized blush silk bow",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Scalloped Lace Pink Peony Bouquet"
+        },
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_0e76e398.png",
+          "alt": "Sunlit side angle of Alice in Flowerland pink peony bouquet and wide silk ribbon bow",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Morning Light Studio Angle"
+        }
+      ]
+    },
+    {
+      "id": "morning-light-peony-bow",
+      "slug": "morning-light-peony-bow",
+      "name": "Satin Ribbon Pink Peony Side-Wrap",
+      "collection": "signature-bouquets",
+      "collectionTitle": "Signature Bouquets",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Mother’s Day & Gratitude"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "satin-peony-dome",
+          "label": "Lush Pink Peony & Wide Satin Bow",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Peony Rose Pink",
+        "Blush & Cream"
+      ],
+      "wrappingOptions": [
+        "Embroidered Lace Cuff & Wide Blush Silk Satin Bow"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Soft morning daylight styling with wide double satin bow",
+      "description": "Captured in golden Saigon window light, this lush dome of blush garden peonies celebrates texture—contrasting delicate scalloped cotton lace against a sweeping double satin ribbon bow.",
+      "craftDetails": [
+        "Full rounded peony silhouette with ruffled outer petals",
+        "Extra-wide ballet-pink silk ribbon knot with cascading tails",
+        "Signature Saigon studio wrapping"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_0e76e398.png",
+          "alt": "Side angle of blush pink peonies wrapped in scalloped floral lace with large satin ribbon bow in sunlight",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Morning Light Satin Bow Peonies"
+        }
+      ]
+    },
+    {
+      "id": "ivory-ohara-hydrangea-cone",
+      "slug": "ivory-ohara-hydrangea-cone",
+      "name": "Ivory Garden Rose & Hydrangea Cone",
+      "collection": "signature-bouquets",
+      "collectionTitle": "Signature Bouquets",
+      "occasions": [
+        "Birthdays",
+        "Weddings & Bridal",
+        "Graduations",
+        "Mother’s Day & Gratitude"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "signature-cone",
+          "label": "Classic Parisian Cone Wrap",
+          "price": null
+        },
+        {
+          "id": "luxe-cone",
+          "label": "Lush Extended Stem Edition",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Ivory & Soft Pink",
+        "Pure Pearl White"
+      ],
+      "wrappingOptions": [
+        "Crisp Minimalist Ivory Cone",
+        "Satin Ribbon Finish"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Crisp architectural white wrap with blush pink lilies",
+      "description": "A serene architectural cone arrangement uniting creamy ivory David Austin-style garden roses, pink hydrangea clouds, blush double lilies, and delicate spray roses.",
+      "craftDetails": [
+        "Clean contemporary silhouette tailored for effortless gifting",
+        "Fresh stems conditioned daily in our Saigon studio",
+        "Complimentary personalised note card"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_95dbad83.png",
+          "alt": "Alice in Flowerland ivory cone wrap bouquet with cream garden roses, blush pink hydrangea, and soft pink lilies",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Ivory Garden Rose & Hydrangea Cone"
+        }
+      ]
+    },
+    {
+      "id": "lavender-clematis-mums-wrap",
+      "slug": "lavender-clematis-mums-wrap",
+      "name": "Blush Dahlia & Lavender Clematis Wrap",
+      "collection": "signature-bouquets",
+      "collectionTitle": "Signature Bouquets",
+      "occasions": [
+        "Birthdays",
+        "Romance & Anniversary",
+        "Graduations"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "editorial-wrap",
+          "label": "Editorial Wide-Shoulder Wrap",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Blush & Lavender",
+        "Soft Ivory & Lilac"
+      ],
+      "wrappingOptions": [
+        "Matte Pearl Structured Wrap & Pink Ribbon"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Dancing purple clematis stars & blush pompon blooms",
+      "description": "Feather-light lilac clematis blossoms fluttering above blush pink pompon blooms, garden spray roses, and wispy botanical angel fibers inside crisp ivory architectural sheets.",
+      "craftDetails": [
+        "Airy Korean-Parisian floral silhouette",
+        "Clipped with Alice in Flowerland pink heart pin card",
+        "Custom ribbon and card message included on request"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_1c6e600d.png",
+          "alt": "Alice in Flowerland architectural ivory bouquet with pink blooms, purple clematis, and wispy angel hair fibers",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Blush & Lavender Clematis Composition"
+        }
+      ]
+    },
+    {
+      "id": "sweetpea-garden-rose-lace",
+      "slug": "sweetpea-garden-rose-lace",
+      "name": "Garden Rose & Fluttering Sweet Pea Wrap",
+      "collection": "signature-bouquets",
+      "collectionTitle": "Signature Bouquets",
+      "occasions": [
+        "Romance & Anniversary",
+        "Weddings & Bridal",
+        "Birthdays"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "romantic-oval",
+          "label": "Romantic Wide Matte-White & Lace Wrap",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Pink Garden Rose & Pure White Sweet Pea"
+      ],
+      "wrappingOptions": [
+        "Sculpted Matte White Collar, Sheer Lace & Blush Ribbon"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Sculpted matte white layers & trailing pink lace ribbon",
+      "description": "Velvet rosette pink garden roses encircled by dancing snowy white sweet pea blossoms, framed with a soft scalloped lace liner inside structured pearl-white wrapping and cascading lace ribbons.",
+      "craftDetails": [
+        "Aromatic sweet pea vines paired with cupped rosette roses",
+        "Lace-edged ribbon tails flowing softly below the handle",
+        "Prepared fresh to order in Saigon"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_265dc24d.png",
+          "alt": "Alice in Flowerland bouquet of pink garden roses and fluttering white sweet peas wrapped in crisp white sheets with lace ribbon",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Garden Rose & White Sweet Pea Wrap"
+        }
+      ]
+    },
+    {
+      "id": "blush-ranunculus-cloud-wrap",
+      "slug": "blush-ranunculus-cloud-wrap",
+      "name": "Creamy Blush Ranunculus & Viburnum Wrap",
+      "collection": "signature-bouquets",
+      "collectionTitle": "Signature Bouquets",
+      "occasions": [
+        "Birthdays",
+        "Mother’s Day & Gratitude",
+        "Weddings & Bridal",
+        "Romance & Anniversary"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "cloud-signature",
+          "label": "Sculpted Cloud Wrap (Large Bloom Head Mix)",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Peach Blush, Butter Cream & Ivory"
+      ],
+      "wrappingOptions": [
+        "Crisp Matte Ivory Cloud Fold & Ribboned Anthurium"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Ribbon-pinned blush anthurium & velvety ranunculus",
+      "description": "Creamy peach-blush Clooney ranunculus, crisp green snowball viburnum, fragrant white double matthiola, and an oversized pink anthurium finished with a hand-tied cream satin bow.",
+      "craftDetails": [
+        "Specialty imported ranunculus blooms with swirling petals",
+        "Includes signature cream anthurium accent tied with silk bow",
+        "Clipped with Alice in Flowerland keepsake stationery"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_36bf4423.png",
+          "alt": "Alice in Flowerland wide ivory bouquet with peach blush ranunculus, white stock, and bow-tied pink anthurium",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Creamy Blush Ranunculus & Anthurium Wrap"
+        }
+      ]
+    },
+    {
+      "id": "with-love-ranunculus-basket",
+      "slug": "with-love-ranunculus-basket",
+      "name": "“With Love” Blush Ranunculus Chiffon Basket",
+      "collection": "romantic-flower-baskets",
+      "collectionTitle": "Romantic Flower Baskets",
+      "occasions": [
+        "Romance & Anniversary",
+        "Weddings & Bridal",
+        "Mother’s Day & Gratitude",
+        "Housewarming"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "standard-basket",
+          "label": "Signature White Woven Basket",
+          "price": null
+        },
+        {
+          "id": "deluxe-basket",
+          "label": "Grand Abundance Basket",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Blush & Pearl White",
+        "Pastel Garden Mix"
+      ],
+      "wrappingOptions": [
+        "Oversized Chiffon Sash & Gold Heart Charm"
+      ],
+      "inStock": true,
+      "featured": true,
+      "leadTimeNote": "Price on Request · Adorned with engraved gold “With Love” heart charm",
+      "description": "An heirloom white woven basket brimming with butter-soft blush ranunculus, ivory narcissus, pastel tulips, pearl-beaded pink anthurium, and an oversized pleated chiffon bow secured with a gold heart charm.",
+      "craftDetails": [
+        "Hand-strung miniature pearl accents & bow-pinned anthurium",
+        "Engraved gold heart charm & signature Alice star card holder",
+        "Hydrated floral foam base for lasting freshness"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_74e67b15.png",
+          "alt": "Alice in Flowerland white woven basket filled with blush ranunculus, white narcissus, pink tulips, pearl strands, and giant chiffon bow with heart charm",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — “With Love” Blush Ranunculus Basket"
+        }
+      ]
+    },
+    {
+      "id": "blush-bunny-sweetpea-giftbox",
+      "slug": "blush-bunny-sweetpea-giftbox",
+      "name": "Blush Plush Bunny & Sweet Pea Gift Box",
+      "collection": "romantic-flower-baskets",
+      "collectionTitle": "Romantic Flower Baskets",
+      "occasions": [
+        "Birthdays",
+        "Romance & Anniversary",
+        "Bespoke Milestones",
+        "Mother’s Day & Gratitude"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "bunny-gift-box",
+          "label": "Keepsake Box with Blush Plush Bunny & Fresh Blooms",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Dusty Blush Bunny, Pink Ranunculus & White Sweet Pea"
+      ],
+      "wrappingOptions": [
+        "Lace-Lined White Gift Box, Pink Satin Bow & Heart Clip"
+      ],
+      "inStock": true,
+      "featured": true,
+      "leadTimeNote": "Price on Request · Our hero keepsake gift box with fluffy blush bunny",
+      "description": "Our most-loved romantic presentation: a sleepy blush velvet plush bunny tucked beside lace-lined sheets of pink Clooney ranunculus and snowy white sweet peas inside a ribbon-tied Alice in Flowerland gift box.",
+      "craftDetails": [
+        "Includes fluffy keepsake bunny & pink heart card clip",
+        "Hand-tied pink satin bow on structured keepsake box",
+        "Complimentary illustrated Alice in Flowerland card"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_1309a6ad.png",
+          "alt": "Alice in Flowerland white gift box featuring fluffy blush pink plush bunny, pink ranunculus, white sweet peas, satin bow, and pink heart clip card",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Blush Bunny & Sweet Pea Keepsake Box"
+        }
+      ]
+    },
+    {
+      "id": "twin-tulip-natural-wicker-baskets",
+      "slug": "twin-tulip-natural-wicker-baskets",
+      "name": "Garden Ranunculus & Parrot Tulip Wicker Baskets",
+      "collection": "romantic-flower-baskets",
+      "collectionTitle": "Romantic Flower Baskets",
+      "occasions": [
+        "Birthdays",
+        "Housewarming",
+        "Graduations",
+        "Mother’s Day & Gratitude"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "pink-ranunculus-basket",
+          "label": "Blush Tulip & Ranunculus Tall Basket",
+          "price": null
+        },
+        {
+          "id": "blue-parrot-tulip-basket",
+          "label": "Icy-Blue Fringed Parrot Tulip Brim Basket",
+          "price": null
+        },
+        {
+          "id": "matched-duo",
+          "label": "Curated Twin Basket Duo",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Blush Pink & Ivory",
+        "Icy Blue & Frost Pink"
+      ],
+      "wrappingOptions": [
+        "Sage Ribbon & Plush Mini-Tulip Tie"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Tied with sage green satin ribbon & plush tulip charms",
+      "description": "Handwoven rattan baskets finished with delicate sage green ribbons dangling plush pink tulip buds—offered either with romantic blush tulips and ranunculus or showstopping fringed blue-and-pink parrot tulips.",
+      "craftDetails": [
+        "Signature woven natural wicker silhouette with brim detail",
+        "Includes tactile sage ribbon & blush tulip charm tie",
+        "Custom illustrated Alice in Flowerland stationery card"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_c65b2673.png",
+          "alt": "Twin Alice in Flowerland wicker flower baskets with blush tulips, ranunculus, and icy blue fringed parrot tulips",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Twin Natural Wicker Garden Baskets"
+        }
+      ]
+    },
+    {
+      "id": "bunny-hydrangea-peony-basket",
+      "slug": "bunny-hydrangea-peony-basket",
+      "name": "Fluffy Bunny & Pastel Peony Gift Basket",
+      "collection": "romantic-flower-baskets",
+      "collectionTitle": "Romantic Flower Baskets",
+      "occasions": [
+        "Birthdays",
+        "Romance & Anniversary",
+        "Mother’s Day & Gratitude",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "basket-only",
+          "label": "Pastel Hydrangea & Peony White Basket",
+          "price": null
+        },
+        {
+          "id": "basket-with-bunny",
+          "label": "Complete Gifting Set (With Plush Bunny & Foil Hearts)",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Cream Ivory & Soft Rose",
+        "Blush Pink & White"
+      ],
+      "wrappingOptions": [
+        "White Wicker Basket & Champagne Balloons Optional"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Pair with Keepsake Plush Bunny & champagne heart balloons",
+      "description": "Cloud-like ivory and blush hydrangeas interleaved with creamy garden peonies and white phalaenopsis orchid petals inside a crisp white wicker basket—ready to pair with our keepsake bunny and metallic heart balloons.",
+      "craftDetails": [
+        "White orchid petals nestled among abundant garden peonies",
+        "Optional keepsake cream plush bunny & champagne foil hearts",
+        "Ideal for milestone birthdays, anniversaries & warm welcomes"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_118a0118.png",
+          "alt": "Alice in Flowerland white basket of cream peonies, blush hydrangeas, and orchids beside cream plush bunny and champagne heart balloons",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Pastel Peony Basket & Keepsake Gift Suite"
+        }
+      ]
+    },
+    {
+      "id": "acrylic-trunk-dahlia-couture",
+      "slug": "acrylic-trunk-dahlia-couture",
+      "name": "Crystal Acrylic Trunk Dahlia & Orchid Suite",
+      "collection": "romantic-flower-baskets",
+      "collectionTitle": "Romantic Flower Baskets",
+      "occasions": [
+        "Weddings & Bridal",
+        "Romance & Anniversary",
+        "Bespoke Milestones",
+        "Housewarming"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "acrylic-trunk-grand",
+          "label": "Hinged Acrylic Trunk with Pearls & Feather Plume",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Pink Dahlia, White Orchid & Lilac Hydrangea"
+      ],
+      "wrappingOptions": [
+        "Crystal Clear Chrome-Clasped Acrylic Trunk & Pink Chiffon Tie"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Keepsake hinged acrylic chest lined with luminous pearls",
+      "description": "An opulent glass-clear hinged display trunk overflowing with pink pomp dahlias, pure white phalaenopsis orchids, pastel hydrangeas, a ruffled bow anthurium, and a sweeping pink ostrich plume above strands of pearls.",
+      "craftDetails": [
+        "Reusable latch-clasp clear acrylic trunk keepsake",
+        "Cascading white orchids, garden tulips & feather plume accent",
+        "Pearl garlands coiled along the clear floor"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_92864f8e.png",
+          "alt": "Clear acrylic hinged trunk box brimming with pink dahlias, white orchids, hydrangeas, pearls, feather plume, and chiffon bow at Alice in Flowerland",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Crystal Acrylic Trunk Couture Suite"
+        }
+      ]
+    },
+    {
+      "id": "moss-cube-ivory-peony-box",
+      "slug": "moss-cube-ivory-peony-box",
+      "name": "Glass Moss Box & Ivory Peony Garden",
+      "collection": "romantic-flower-baskets",
+      "collectionTitle": "Romantic Flower Baskets",
+      "occasions": [
+        "Housewarming",
+        "Weddings & Bridal",
+        "Mother’s Day & Gratitude",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "glass-moss-planter",
+          "label": "Rectangular Crystal Box with Moss Bed",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Ivory Peony, White Tulip & Blush Garden Bloom"
+      ],
+      "wrappingOptions": [
+        "Clear Rectangular Box & Champagne Satin Ribbon Bow"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Secret garden meadow presentation lined in emerald moss",
+      "description": "A serene miniature secret garden styled inside a crystal-clear rectangular moss box wrapped with champagne satin ribbon—spotlighting creamy white tulips, oversized ivory peonies, Queen Anne’s lace, and narcissus.",
+      "craftDetails": [
+        "Lush emerald green moss base inside modern clear vessel",
+        "Tied cleanly with ivory-champagne satin bow",
+        "Effortless centerpiece ready for dining tables or credenzas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_0f20a48d.png",
+          "alt": "Clear acrylic moss planter tied with cream satin bow holding white tulips, fluffy ivory peonies, narcissus, and Queen Annes lace",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Glass Moss Box & Ivory Peony Meadow"
+        }
+      ]
+    },
+    {
+      "id": "ribbon-bow-pink-tulip-hatbox",
+      "slug": "ribbon-bow-pink-tulip-hatbox",
+      "name": "Signature Bow-Print Pink Peony Hatbox",
+      "collection": "luxury-floral-boxes",
+      "collectionTitle": "Luxury Floral Boxes",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Weddings & Bridal"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "hatbox-presentation",
+          "label": "Ribbon Hatbox in Outer Reveal Box",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Peony Pink & Ivory",
+        "Pastel Lilac & White"
+      ],
+      "wrappingOptions": [
+        "Custom Bow-Printed Hatbox & Blush Ribbon Reveal Box"
+      ],
+      "inStock": true,
+      "featured": true,
+      "leadTimeNote": "Price on Request · Bespoke Alice bow-patterned reveal box with silk ties",
+      "description": "Nestled inside our cream ribbon-illustrated cylinder hatbox and presented in a fold-out pink bow keepsake carrier box—bursting with velvety pink cupped peony tulips, white hydrangeas, and violet clematis.",
+      "craftDetails": [
+        "Two-piece couture reveal packaging with side satin ties",
+        "Tightly clustered cupped peony blooms for sculptural form",
+        "Zero vase needed — ready to display straight out of the box"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_1f406f3f.png",
+          "alt": "Alice in Flowerland open pink ribbon-printed presentation box revealing round floral hatbox filled with pink peonies and white hydrangeas",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Signature Bow-Print Presentation Box"
+        }
+      ]
+    },
+    {
+      "id": "alice-logo-pearl-hatbox",
+      "slug": "alice-logo-pearl-hatbox",
+      "name": "Signature Alice Hatbox with Pearl Anthurium",
+      "collection": "luxury-floral-boxes",
+      "collectionTitle": "Luxury Floral Boxes",
+      "occasions": [
+        "Birthdays",
+        "Romance & Anniversary",
+        "Mother’s Day & Gratitude",
+        "Weddings & Bridal"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "alice-hatbox-standard",
+          "label": "Signature White Crest Hatbox",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Blush Peony, White Narcissus & Nerine"
+      ],
+      "wrappingOptions": [
+        "Alice in Flowerland Stamped Cylinder & Blush Satin Bow"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Features pearl-pinned pink anthuriums & pink satin ribbon",
+      "description": "Our crested cylindrical white hatbox belted in blush pink satin—brimming with ruffled pink peonies, ivory narcissus, spider nerines, and twin signature pastel anthuriums adorned with miniature satin bows and pearl flowers.",
+      "craftDetails": [
+        "Stamped with our illustrated Alice in Flowerland crest",
+        "Crowned with gold wire heart card clip & plumed accent",
+        "Hydrated internally for carefree tabletop display"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_c7a12365.png",
+          "alt": "White Alice in Flowerland crest hatbox tied with pink ribbon holding blush peonies, nerines, narcissus, and pearl-pinned anthuriums",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Signature Crest Hatbox & Pearl Anthurium"
+        }
+      ]
+    },
+    {
+      "id": "pearl-wrapped-orchid-hatbox",
+      "slug": "pearl-wrapped-orchid-hatbox",
+      "name": "Pearl-Strung Orchid & Ranunculus Hatbox",
+      "collection": "luxury-floral-boxes",
+      "collectionTitle": "Luxury Floral Boxes",
+      "occasions": [
+        "Weddings & Bridal",
+        "Romance & Anniversary",
+        "Mother’s Day & Gratitude"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "pearl-rim-hatbox",
+          "label": "Pearl-Banded Cylinder Hatbox",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Cotton-Candy Hydrangea, Blush Ranunculus & White Orchid"
+      ],
+      "wrappingOptions": [
+        "Double Pearl Garland Trim & Miniature Ivory Rosette"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Hatbox belted in double-strand pearls & pearled orchids",
+      "description": "Encircled by two lustrous rows of cream pearls and an ivory floral clasp, this luxury hatbox presents fluffy pink hydrangea clouds, swirled ranunculus, peach anthuriums, and pearl-studded phalaenopsis orchid petals.",
+      "craftDetails": [
+        "Hand-beaded pearl droplets set onto crisp white orchid petals",
+        "Pearled trim along the bespoke cylindrical box",
+        "Includes heart wireframe holder & Alice stationery"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_67fed1cb.png",
+          "alt": "White hatbox encircled with double pearl strands holding pink hydrangea, pastel ranunculus, peach anthurium, and pearl-beaded white orchids",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Pearl-Banded Orchid Hatbox"
+        }
+      ]
+    },
+    {
+      "id": "pink-bunny-orchid-hatbox",
+      "slug": "pink-bunny-orchid-hatbox",
+      "name": "Pink Plush Bunny & Orchid Peony Hatbox",
+      "collection": "luxury-floral-boxes",
+      "collectionTitle": "Luxury Floral Boxes",
+      "occasions": [
+        "Birthdays",
+        "Romance & Anniversary",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "bunny-hatbox",
+          "label": "Hatbox with Dusty-Rose Bunny Companion",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Dusty-Rose Bunny, Ivory Orchids & Pink Spray Roses"
+      ],
+      "wrappingOptions": [
+        "Matte White Hatbox, Lace Anthurium & Oversized Silk Bow"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Includes soft keepsake dusty-pink bunny companion",
+      "description": "A heartwarming gift suite cradling a plush dusty-rose bunny among billowing white phalaenopsis orchids, ivory narcissus, pastel pink garden roses, and lace-trimmed anthuriums with silk satin bows.",
+      "craftDetails": [
+        "Soft keepsake rose-pink plush bunny tucked inside the hatbox",
+        "Hand-tied white satin bows & sheer lace butterfly cuffs",
+        "Custom wording available on keepsake card"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_72688ede.png",
+          "alt": "Dusty-pink fluffy plush bunny nestled inside white hatbox among white orchids, pale pink garden roses, and ribbon-tied anthuriums",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Dusty-Rose Bunny & Orchid Hatbox"
+        }
+      ]
+    },
+    {
+      "id": "pearl-feather-lilac-hatboxes",
+      "slug": "pearl-feather-lilac-hatboxes",
+      "name": "Lavender Clematis & Feather Cube Hatbox",
+      "collection": "luxury-floral-boxes",
+      "collectionTitle": "Luxury Floral Boxes",
+      "occasions": [
+        "Birthdays",
+        "Weddings & Bridal",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "single-cube-hatbox",
+          "label": "Single Hatbox with Ribbon Cube",
+          "price": null
+        },
+        {
+          "id": "twin-hatbox-pair",
+          "label": "Twin Couture Hatbox Suite",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Lavender & Ivory Feather",
+        "Blush Bow & Pearl"
+      ],
+      "wrappingOptions": [
+        "Ribbon-Tied Keepsake Cube Presentation"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Crowned with beaded lace lilies & soft white plumes",
+      "description": "Delivered inside our blush ribbon-patterned cube box tied with four pink satin bows—housing a couture arrangement of lilac hydrangeas, pearl-beaded lilies, tiny satin bows, and delicate ostrich plumes.",
+      "craftDetails": [
+        "Includes keepsake outer cube box with side satin ribbon knots",
+        "Hand-wired pearl pins, satin micro-bows & white feather accent",
+        "Available as an individual centerpiece or matched twin set"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_2c919cd6.png",
+          "alt": "Four-panel collage of Alice in Flowerland bow-print cube gift box opening to lavender clematis, hydrangea, pearl lily, and white feather hatboxes",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Bow-Tied Hatbox Unboxing Collage"
+        }
+      ]
+    },
+    {
+      "id": "origami-envelope-polaroid-box",
+      "slug": "origami-envelope-polaroid-box",
+      "name": "Origami Leatherette Wrap & Polaroid Gift",
+      "collection": "luxury-floral-boxes",
+      "collectionTitle": "Luxury Floral Boxes",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Graduations",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "origami-envelope",
+          "label": "Architectural Folded Envelope Wrap + Polaroid Keepsake",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Cream Pearl & Rose Pink",
+        "Blush & Ivory"
+      ],
+      "wrappingOptions": [
+        "Sculpted White Origami Fold & Multi-Loop Pink Cord"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Includes printed mini Polaroid memory snapshot & heart clip",
+      "description": "An unforgettable gift ritual: crisp architectural white sheets folded into a structured gift envelope secured with sweeping pink loops and topped with a miniature Polaroid memory portrait before unfolding to reveal lush garden roses and pearl-tipped lilies.",
+      "craftDetails": [
+        "Architectural multi-layered white fold transforms on unwrapping",
+        "Includes custom mini Polaroid photo clipped with pastel heart pin",
+        "Handcrafted exclusively in Saigon by @aliceflower.sg"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_d0dacb29.png",
+          "alt": "Four-panel showcase of Alice in Flowerland architectural white envelope floral wrap fastened with pink cords and mini Polaroid photo",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Architectural Envelope Wrap & Polaroid Keepsake"
+        }
+      ]
+    },
+    {
+      "id": "pastel-mesh-clematis-tulip",
+      "slug": "pastel-mesh-clematis-tulip",
+      "name": "Ethereal Mesh Lilac Sweet Pea & Tulip",
+      "collection": "pastel-dreams",
+      "collectionTitle": "Pastel Dreams",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "atelier-mesh",
+          "label": "Sculpted Pearl Mesh Couture Wrap",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Lilac, Icy Blue & Cream",
+        "Blush & Lavender"
+      ],
+      "wrappingOptions": [
+        "Sheer White Organza Mesh & Silk Satin Collar"
+      ],
+      "inStock": true,
+      "featured": true,
+      "leadTimeNote": "Price on Request · Features blue-blushed parrot tulips & embroidered lily petals",
+      "description": "Airy pearl-white structured organza floats around lavender sweet peas, rare icy-blue and pink-fringed parrot tulips, creamy ranunculus, blue hydrangeas, and a pearl-studded lace anthurium.",
+      "craftDetails": [
+        "Rare specialty tulips & fragrant purple sweet peas",
+        "Structured architectural mesh creates a floating halo silhouette",
+        "Beaded pearl droplets glisten in natural daylight"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_ce1193b1.png",
+          "alt": "Alice in Flowerland bouquet in sheer white architectural mesh wrap with lavender sweet peas, icy blue parrot tulips, ivory ranunculus, and pink roses",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Ethereal Mesh Lilac & Tulip Bouquet"
+        },
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.49.43_c143a904.mp4",
+          "alt": "Sunlit ranunculus close-up reel from Alice in Flowerland",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Sunlit Ranunculus Studio Study"
+        }
+      ]
+    },
+    {
+      "id": "pastel-cloud-hydrangea-triad",
+      "slug": "pastel-cloud-hydrangea-triad",
+      "name": "Pastel Trio Cloud Hydrangea Bouquet",
+      "collection": "pastel-dreams",
+      "collectionTitle": "Pastel Dreams",
+      "occasions": [
+        "Birthdays",
+        "Graduations",
+        "Mother’s Day & Gratitude",
+        "Romance & Anniversary"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "hydrangea-triad",
+          "label": "Three-Stem Couture Cloud Wrap",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Cotton-Candy Pink, Lavender & Pearl Cream"
+      ],
+      "wrappingOptions": [
+        "Ruffled Tissue Collar, Frosted Celophane & Champagne Ribbon"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Full ruffled collar with champagne double-faced satin ties",
+      "description": "Three velvety imported hydrangea blooms—petal pink, periwinkle lavender, and warm pearl cream—cradled inside an accordion-pleated tissue ruffle and crisp frosted translucent wrap tied with long champagne ribbons.",
+      "craftDetails": [
+        "Three oversized luxury hydrangea heads with lasting volume",
+        "Hand-pleated Korean tissue collar for romantic cloud structure",
+        "Includes signature cream & pearl aesthetic card"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.50.08_8640ba48.mp4",
+          "alt": "Alice in Flowerland pastel pink, lavender, and cream hydrangea bouquet with ruffled tissue wrap and champagne ribbon",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Pastel Triad Cloud Hydrangea Reel"
+        }
+      ]
+    },
+    {
+      "id": "sky-blue-delphinium-bundle",
+      "slug": "sky-blue-delphinium-bundle",
+      "name": "Cerulean Sky Delphinium Meadow Bundle",
+      "collection": "pastel-dreams",
+      "collectionTitle": "Pastel Dreams",
+      "occasions": [
+        "Housewarming",
+        "Birthdays",
+        "Bespoke Milestones",
+        "Mother’s Day & Gratitude"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "hand-tied-sheaf",
+          "label": "Tall Fresh Stem Bundle",
+          "price": null
+        },
+        {
+          "id": "with-glass-vase",
+          "label": "Arranged in Flared Crystal Vase",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Sky Blue & Ivory Center"
+      ],
+      "wrappingOptions": [
+        "Soft Linen Sleeve or Clear Flared Glass Vase"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Graceful sky-blue larkspur stems for home sunlight",
+      "description": "Delicate, poetic stalks of sky-blue delphiniums arranged naturally to catch afternoon window light—evoking an effortless wildflower meadow brought indoors in Saigon.",
+      "craftDetails": [
+        "Tall sculptural stems trimmed for clean vase hydration",
+        "Available wrapped for gifting or styled directly in crystal glass",
+        "Seasonal fresh cut harvest"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.50.17_1a766457.mp4",
+          "alt": "Sky-blue delphinium flowers arranged in glass vase by sunny curtains at Alice in Flowerland",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Morning Sunlight Sky Delphiniums"
+        }
+      ]
+    },
+    {
+      "id": "sunlit-ranunculus-studio-trio",
+      "slug": "sunlit-ranunculus-studio-trio",
+      "name": "Sunlit Blush Ranunculus Studio Trio",
+      "collection": "pastel-dreams",
+      "collectionTitle": "Pastel Dreams",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Mother’s Day & Gratitude"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "petite-ranunculus",
+          "label": "Atelier Morning Trio Bundle",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Soft Blush Pink"
+      ],
+      "wrappingOptions": [
+        "Minimalist Linen Ribbon Tie or Gift Sleeve"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Delicate layered pink petals filmed in Saigon sunlight",
+      "description": "An ode to pure petal symmetry: hand-selected pastel pink Clooney ranunculus blooms conditioned for soft opening and wrapped simply for bedside tables or intimate gestures.",
+      "craftDetails": [
+        "Paper-thin layered blush petals",
+        "Conditioned for extended 7-day vase bloom",
+        "Pairs gracefully with custom message stationery"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.49.43_c143a904.mp4",
+          "alt": "Sunlit close-up study of delicate blush pink ranunculus stems",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Sunlit Ranunculus Study Reel"
+        }
+      ]
+    },
+    {
+      "id": "ruffled-double-lily-bouquet",
+      "slug": "ruffled-double-lily-bouquet",
+      "name": "Ruffled Pink Double Lily & Cloud Spray Bouquet",
+      "collection": "pastel-dreams",
+      "collectionTitle": "Pastel Dreams",
+      "occasions": [
+        "Birthdays",
+        "Graduations",
+        "Mother’s Day & Gratitude",
+        "Romance & Anniversary"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "double-lily-grand",
+          "label": "Wide Architectural Lily Bouquet",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Blush Star Lily, Lemon-Cream Lisianthus & Pink Rose"
+      ],
+      "wrappingOptions": [
+        "Matte White Architectural Fan & Pastel Pink Ribbon"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Fragrant pollen-free double lilies & Queen Anne’s lace",
+      "description": "Starburst blush-and-cream double lotus lilies surrounded by pastel pink roses, pale buttery lisianthus, and cloudy sprays of Queen Anne’s lace wrapped in wide architectural white sheets.",
+      "craftDetails": [
+        "Layered multi-petal lotus lilies (gentle subtle fragrance)",
+        "Cloud-soft white architectural fan fold",
+        "Tied with narrow pastel pink satin ribbon tails"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_fd20cfcf.png",
+          "alt": "Large Alice in Flowerland architectural white bouquet bursting with ruffled pink double lilies, pink roses, cream lisianthus, and lacy white fillers",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Ruffled Pink Double Lily Bouquet"
+        }
+      ]
+    },
+    {
+      "id": "ivory-fur-sakura-peony",
+      "slug": "ivory-fur-sakura-peony",
+      "name": "Ivory Fur Sakura Branch & Peony Wrap",
+      "collection": "pastel-dreams",
+      "collectionTitle": "Pastel Dreams",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "sakura-fur-couture",
+          "label": "Seasonal Blossom Branches & Fur Cuff",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Sakura Cherry Pink, Blush Peony & Pure White Fur"
+      ],
+      "wrappingOptions": [
+        "Ivory Plush Faux-Fur Sheet with Built-in Fur Bow"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Tactile white faux-fur collar with spring blossom branches",
+      "description": "Sculptural flowering pink sakura cherry branches dancing out from giant blush peonies inside an ultra-soft ivory plush faux-fur wrap accented with an oversized fur bow on the shoulder.",
+      "craftDetails": [
+        "Delicate flowering cherry blossom branches paired with fluffy peonies",
+        "Signature tactile white plush wrap with corner bow sculptural fold",
+        "Tied with cream-blush double satin ribbons"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_2cd8df42.png",
+          "alt": "Alice in Flowerland white plush faux-fur bouquet with pink cherry blossom twigs, lush blush peonies, and fur bow detail",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Ivory Fur Sakura & Peony Bouquet"
+        }
+      ]
+    },
+    {
+      "id": "chantilly-lace-pearl-cascade",
+      "slug": "chantilly-lace-pearl-cascade",
+      "name": "Chantilly Lace & Draping Pearl Bouquet",
+      "collection": "bespoke-floral-creations",
+      "collectionTitle": "Bespoke Floral Creations",
+      "occasions": [
+        "Weddings & Bridal",
+        "Romance & Anniversary",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "couture-lace",
+          "label": "Full Chantilly Lace & Pearl Strands",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Pearl White & Ballet Blush"
+      ],
+      "wrappingOptions": [
+        "Scalloped Chantilly Lace Collar & Cascading Pearl Drops"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Hand-trimmed scalloped lace cuff & cascading pearl garlands",
+      "description": "Our most intricate romantic signature: a scalloped ivory Chantilly lace collar finished with pink silk corner bows and cascading pearl garlands embracing pearl-dotted pink lilies, garden roses, sweet peas, and ribboned anthurium.",
+      "craftDetails": [
+        "Hand-draped faux-pearl strands & tiny satin bow placements",
+        "Couture lace overlay framing soft pink & white seasonal blooms",
+        "Designed especially for proposals, bridal portraits & anniversaries"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_830e7232.png",
+          "alt": "Alice in Flowerland bridal lace-wrapped bouquet with pink bows, pearl garlands, blush tulips, lilies, and pearl-pinned anthurium",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Chantilly Lace & Pearl Cascade"
+        },
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_55bf7547.png",
+          "alt": "Alternate view of Alice in Flowerland lace bouquet with blush nerines, pearl strings, and pink heart card clip",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Lace Collar & Pearl Drop Study"
+        }
+      ]
+    },
+    {
+      "id": "bridal-lace-pearl-drop",
+      "slug": "bridal-lace-pearl-drop",
+      "name": "Bridal Lace Collar & Pearl Drop Cascade",
+      "collection": "bespoke-floral-creations",
+      "collectionTitle": "Bespoke Floral Creations",
+      "occasions": [
+        "Weddings & Bridal",
+        "Romance & Anniversary",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "bridal-portrait",
+          "label": "Bridal Portrait Lace Collar Edition",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Ivory Chantilly Lace & Blush Nerine"
+      ],
+      "wrappingOptions": [
+        "Hand-Pinned Pink Silk Micro-Bows & Draped Pearl Loops"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Custom bridal couture collar with pearl loops & pink micro-bows",
+      "description": "Tailored for editorial bridal photography and intimate ceremonies—delicate pink silk micro-bows stitched onto scalloped ivory lace around blush nerines, sweet peas, and pearl-strung floral blooms.",
+      "craftDetails": [
+        "Designed to photograph luminously from every portrait angle",
+        "Hand-strung pearl loops draped below the lace cuff",
+        "Includes matching Alice in Flowerland heart stationery pin"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_55bf7547.png",
+          "alt": "Close portrait of Alice in Flowerland scalloped lace collar bouquet with draped pearl strands, blush nerines, and pink bows",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Bridal Lace Collar & Pearl Drops"
+        }
+      ]
+    },
+    {
+      "id": "lace-embroidered-calla-creations",
+      "slug": "lace-embroidered-calla-creations",
+      "name": "Pearl Calla & Lace Embroidery Couture Wrap",
+      "collection": "bespoke-floral-creations",
+      "collectionTitle": "Bespoke Floral Creations",
+      "occasions": [
+        "Weddings & Bridal",
+        "Romance & Anniversary",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "couture-wrap",
+          "label": "Architectural White & Embroidered Lace",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Ivory & Coral Calla Blush"
+      ],
+      "wrappingOptions": [
+        "Structured Matte White Sheet & Scalloped Embroidery Layer"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Pearl-studded calla lily & beaded floral lace veil",
+      "description": "Minimalist structure meets couture embellishment: crisp ivory sheets topped with a single scalloped veil of embroidered white floral lace around pearl-adorned coral calla lilies, lace-veined white blossoms, and velvet spray roses.",
+      "craftDetails": [
+        "Micro-pearls hand-set along calla spathe curve & ribboned anthurium",
+        "Textural blend of crisp paper & delicate sheer embroidery",
+        "Hand-poured custom scent mist available upon request"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_06dc583b.png",
+          "alt": "Alice in Flowerland bouquet with pearl-adorned coral calla lily, white lace-petal blooms, and scalloped embroidered cuff",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Pearl Calla & Scalloped Embroidery"
+        }
+      ]
+    },
+    {
+      "id": "sculptural-lace-magnolia-vase",
+      "slug": "sculptural-lace-magnolia-vase",
+      "name": "Couture Embroidered Lace Blooms in Fluted Vase",
+      "collection": "bespoke-floral-creations",
+      "collectionTitle": "Bespoke Floral Creations",
+      "occasions": [
+        "Weddings & Bridal",
+        "Housewarming",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "fluted-urn-pair",
+          "label": "Twin Sculptural Blooms in Fluted Urn",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Champagne Pearl & Ivory Lace"
+      ],
+      "wrappingOptions": [
+        "Displayed in Fluted Classical Stone Urn"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Keepsake pearl-studded artisanal lace blossoms",
+      "description": "Architectural couture petals crafted with delicate ivory floral embroidery mesh and sprinkled with luminous pearls, posed effortlessly inside a neoclassical fluted stone urn for timeless interior styling.",
+      "craftDetails": [
+        "Heirloom decorative floral sculpture with hand-placed pearls",
+        "Presented in matte cream fluted pedestal vase",
+        "Lasts indefinitely as an architectural keepsake gift"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_26b83e6f.png",
+          "alt": "Pair of oversized white embroidered lace flowers dotted with pearls in a cream fluted pedestal urn beside Alice card",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Couture Lace Blooms in Fluted Urn"
+        }
+      ]
+    },
+    {
+      "id": "ivory-faux-fur-peony-wrap",
+      "slug": "ivory-faux-fur-peony-wrap",
+      "name": "Ivory Plush Fur & Silver Eucalyptus Peony Wrap",
+      "collection": "bespoke-floral-creations",
+      "collectionTitle": "Bespoke Floral Creations",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "velvet-fur-peonies",
+          "label": "Plush Faux-Fur Wrap with Pink Peonies",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Cloud White Fur, Frosted Sage & Cotton-Candy Pink"
+      ],
+      "wrappingOptions": [
+        "Cream Plush Faux-Fur Sheet, Sculpted Fur Bow & Pink Ribbons"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Tactile snowy plush wrap with frosted foliage",
+      "description": "Ultra-tactile and sculptural: velvety blush peonies and delicate pale-pink sweet peas nested inside a structured snowy-white faux-fur wrap frosted with silver botanical sprigs and a pink heart card holder.",
+      "craftDetails": [
+        "Snow-white plush faux-fur cuff with sculpted matching bow",
+        "Silvery-sage frosted stems balancing soft peony petals",
+        "Tied with blush pink satin ribbons"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_16c000d0.png",
+          "alt": "Alice in Flowerland snowy white faux-fur wrapped bouquet with fluffy pink peonies, silvery foliage, and pink heart clip card",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Ivory Faux-Fur Peony Couture Wrap"
+        }
+      ]
+    },
+    {
+      "id": "celebration-anthology-bespoke",
+      "slug": "celebration-anthology-bespoke",
+      "name": "Saigon Bespoke Celebration Anthology Commission",
+      "collection": "bespoke-floral-creations",
+      "collectionTitle": "Bespoke Floral Creations",
+      "occasions": [
+        "Weddings & Bridal",
+        "Romance & Anniversary",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "bespoke-commission",
+          "label": "Full Bespoke Palette & Scale Consultation",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Custom Palette (Blush, Ivory, Lilac or Sky Blue)"
+      ],
+      "wrappingOptions": [
+        "Tailored Lace, Hatbox, Acrylic Chest, or Basket Presentation"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Inspired by our signature celebration anthology reel",
+      "description": "Designed for landmark proposals, bridal installations, and once-in-a-lifetime Saigon gifts—combining your chosen rare blooms, signature Alice pearls, couture lace overlays, and bespoke presentation scale.",
+      "craftDetails": [
+        "Personal 1-on-1 Saigon atelier stem & palette curation",
+        "Compatible with matching keepsake boxes, Polaroids & ribbons",
+        "Quoted in VND (₫) following consultation"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.49.58_666d8270.mp4",
+          "alt": "Alice in Flowerland celebration anthology showcase reel of bespoke floral bouquets",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Saigon Bespoke Celebration Showcase"
+        }
+      ]
+    },
+    {
+      "id": "grand-ruffle-bow-statement",
+      "slug": "grand-ruffle-bow-statement",
+      "name": "Grand Ruffled Statement & Signature Bow Bouquet",
+      "collection": "occasion-arrangements",
+      "collectionTitle": "Flowers for Every Occasion",
+      "occasions": [
+        "Birthdays",
+        "Romance & Anniversary",
+        "Graduations",
+        "Bespoke Milestones"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "showstopper-grand",
+          "label": "Showstopper Floor-Scale Ruffle + Bow",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Blush Pink Roses & Cloud Ivory"
+      ],
+      "wrappingOptions": [
+        "Sculpted White Architectural Waves & Giant Satin Bow Accent"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Grand celebration centerpiece crafted to turn heads",
+      "description": "Our largest couture celebration bouquet—hundreds of fresh pastel pink spray roses and creamy white hydrangeas framed by sculptural waves of ruffled pure-white paper and crowned with a dramatic dusty-pink ribbon bow.",
+      "craftDetails": [
+        "Showstopping grand silhouette designed for unforgettable entrances",
+        "Saigon dedicated courier delivery recommended",
+        "Custom occasion signage & love note included"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_a2d950a8.png",
+          "alt": "Alice in Flowerland giant white ruffled bouquet brimming with pastel pink spray roses topped with giant pastel pink bow balloon",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Grand Ruffled Celebration Bouquet"
+        },
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.49.58_666d8270.mp4",
+          "alt": "Curated Alice in Flowerland celebration bouquet anthology reel",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Atelier Celebration Showcase Reel"
+        }
+      ]
+    },
+    {
+      "id": "pastel-calla-sweetpea-sleeve",
+      "slug": "pastel-calla-sweetpea-sleeve",
+      "name": "Lilac Hydrangea & Pink Calla Atelier Wrap",
+      "collection": "occasion-arrangements",
+      "collectionTitle": "Flowers for Every Occasion",
+      "occasions": [
+        "Birthdays",
+        "Weddings & Bridal",
+        "Graduations",
+        "Romance & Anniversary"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "atelier-pearl-wrap",
+          "label": "Pearl Paper & Narrow Pink Ribbons",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Lilac, Pink & Ivory Lisianthus"
+      ],
+      "wrappingOptions": [
+        "Matte White Asymmetric Wrap & Cascading Pink Ribbons"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Asymmetric pastel ribbons & delicate lisianthus ruffles",
+      "description": "A joyful fusion of lavender hydrangea clouds, striped pink calla lilies, butter-cream ranunculus, pink sweet peas, and ruffled ivory lisianthus nestled in matte white architectural paper with miniature ribbon bows.",
+      "craftDetails": [
+        "Tied with flowing narrow silk pink ribbons & micro bows",
+        "Vibrant yet serene pastel harmony for birthdays & graduations",
+        "Fresh daily selection in our Ho Chi Minh City boutique"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.50.24_9476073b.mp4",
+          "alt": "Alice in Flowerland lavender hydrangea, pink calla lily, tulip, and lisianthus bouquet wrapped in pearl white with thin pink ribbons",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Lilac & Pink Calla Studio Reel"
+        }
+      ]
+    },
+    {
+      "id": "petite-sweetpea-daydream-sleeve",
+      "slug": "petite-sweetpea-daydream-sleeve",
+      "name": "Petite Pastel Sweet Pea Everyday Sleeve",
+      "collection": "occasion-arrangements",
+      "collectionTitle": "Flowers for Every Occasion",
+      "occasions": [
+        "Birthdays",
+        "Mother’s Day & Gratitude",
+        "Graduations",
+        "Romance & Anniversary"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "petite-sleeve",
+          "label": "Handheld Pastel Sleeve",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Cotton Candy Pink & Ivory White"
+      ],
+      "wrappingOptions": [
+        "Blush Paper Cuff & Cream Satin Ribbon"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Effortless Parisian street-style gift sleeve",
+      "description": "Delicate fluttering butterfly petals of fragrant pastel pink and pure white sweet peas wrapped simply in soft blush paper and tied with a champagne-cream satin bow for spontaneous romantic gestures.",
+      "craftDetails": [
+        "Fragrant delicate sweet pea stems carried ready-to-gift",
+        "Clear protective sleeve with cream satin bow & Alice card",
+        "Ideal for casual Saigon dates, thank-yous & thoughtful mornings"
+      ],
+      "media": [
+        {
+          "type": "video",
+          "src": "/assets/aistudio/WhatsApp_Video_2026-11-17_at_15.50.28_8ab8415c.mp4",
+          "alt": "Handheld pink and white sweet pea bouquet sleeve with cream ribbon and Alice Flower card",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Petite Sweet Pea Sleeve Reel"
+        }
+      ]
+    },
+    {
+      "id": "blush-tulip-valentine-pair",
+      "slug": "blush-tulip-valentine-pair",
+      "name": "Blush Tulip Cone & Valentine Bento Pairing",
+      "collection": "occasion-arrangements",
+      "collectionTitle": "Flowers for Every Occasion",
+      "occasions": [
+        "Romance & Anniversary",
+        "Birthdays",
+        "Graduations"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "tulip-cone-only",
+          "label": "Blush Pink Dutch Tulip Cone Bouquet",
+          "price": null
+        },
+        {
+          "id": "tulip-bento-set",
+          "label": "Complete Valentine Tulip & Bento Keepsake Set",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Ballet Pink Tulips & Matte Ivory Cone"
+      ],
+      "wrappingOptions": [
+        "Architectural Crisp White Wrap & Pastel Pink Ribbon"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Fresh Dutch blush tulips & optional celebration bento carrier",
+      "description": "Cupped ballet-pink Dutch tulips nestled into blush inner tissue inside a crisp sculpted white paper cone tied with satin ribbon—ideal alone or paired with a sweet celebration gift box for Valentine’s Day and anniversaries.",
+      "craftDetails": [
+        "Fresh stemmed pink & soft blush tulip buds",
+        "Architectural cone wraps standing upright effortlessly",
+        "Coordinate pickup or courier delivery across Saigon"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_ff3ed377.png",
+          "alt": "Alice in Flowerland blush pink tulip bouquet in matte white wrap tied with pink ribbon beside clear box heart bento gift",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Blush Tulip Cone & Gift Pairing"
+        }
+      ]
+    },
+    {
+      "id": "plush-bow-holiday-trees",
+      "slug": "plush-bow-holiday-trees",
+      "name": "Plush-Bow & Mushroom Keepsake Evergreen Trees",
+      "collection": "occasion-arrangements",
+      "collectionTitle": "Flowers for Every Occasion",
+      "occasions": [
+        "Housewarming",
+        "Bespoke Milestones",
+        "Birthdays"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "pink-velvet-tree",
+          "label": "Rose-Pink Plush Bow Evergreen Tree",
+          "price": null
+        },
+        {
+          "id": "ivory-velvet-tree",
+          "label": "Snow-White Plush Bow Tabletop Tree",
+          "price": null
+        },
+        {
+          "id": "matched-holiday-pair",
+          "label": "Twin Festive Tabletop Evergreen Duo",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Pastel Pink Plush & Knit Mushroom",
+        "Snow Ivory Plush & Bear Ribbons"
+      ],
+      "wrappingOptions": [
+        "Hand-Trimmed Natural Nobilis Fir with Custom Illustrated Holiday Card"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Seasonal tabletop evergreens crowned with fluffy bows",
+      "description": "Fragrant miniature nobilis evergreens styled in our playful Parisian holiday aesthetic—crowned with oversized rose-pink or ivory fleece bows, crocheted toadstools, felt bows, and pearl accents for whimsical winter homes.",
+      "craftDetails": [
+        "Fresh aromatic tabletop evergreen foliage",
+        "Hand-crafted felt, yarn & ribbon ornaments included",
+        "Accompanied by Alice in Flowerland illustrated festive card"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_ec3b710f.png",
+          "alt": "Twin miniature evergreen conifer trees topped with oversized fluffy pink and ivory plush bows and pastel ornaments beside illustrated Alice greeting card",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Plush-Bow Tabletop Evergreens"
+        }
+      ]
+    },
+    {
+      "id": "saigon-signature-gifting-edit",
+      "slug": "saigon-signature-gifting-edit",
+      "name": "Signature Pastel Gifting Edit (Card & Ribbon)",
+      "collection": "occasion-arrangements",
+      "collectionTitle": "Flowers for Every Occasion",
+      "occasions": [
+        "Birthdays",
+        "Mother’s Day & Gratitude",
+        "Housewarming",
+        "Romance & Anniversary"
+      ],
+      "priceDisplay": "Price on Request",
+      "isPriceOnRequest": true,
+      "basePrice": null,
+      "variants": [
+        {
+          "id": "medium-gift-edit",
+          "label": "Boutique Gifting Size (Bouquet or Hatbox)",
+          "price": null
+        },
+        {
+          "id": "grand-gift-edit",
+          "label": "Grand Saigon Celebration Edition",
+          "price": null
+        }
+      ],
+      "colourOptions": [
+        "Blush Pink, Ivory & Lavender",
+        "Atelier Choice Seasonal Best"
+      ],
+      "wrappingOptions": [
+        "Signature Alice Packaging, Satin Ribbons & Heart Card Clip"
+      ],
+      "inStock": true,
+      "featured": false,
+      "leadTimeNote": "Price on Request · Tailor your gifting preference with Saigon courier delivery",
+      "description": "When every stem is freshest in the morning market, let our Saigon florists compose a dreamy seasonal arrangement finished with Alice in Flowerland’s signature heart-clipped message card and satin bow.",
+      "craftDetails": [
+        "Curated daily from Saigon’s freshest luxury seasonal harvest",
+        "Choice of wrapped bouquet or tabletop gift box silhouette",
+        "Includes keepsake illustrated bunny & lily-of-the-valley stationery"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_1309a6ad.png",
+          "alt": "Alice in Flowerland signature keepsake card clipped with pink heart onto ribbon gift box with blush blooms and bunny",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Signature Keepsake Gifting Edit"
+        },
+        {
+          "type": "image",
+          "src": "/assets/aistudio/image_c7a12365.png",
+          "alt": "Signature pink bow hatbox filled with blush peonies and pearl anthuriums",
+          "isAuthenticBrandWork": true,
+          "caption": "Alice in Flowerland — Hatbox Presentation Option"
+        }
+      ]
+    }
+  ],
+  "orders": [],
+  "availability": {
+    "blockedDates": [],
+    "maxOrdersPerDay": 8,
+    "dateCounts": {}
+  },
+  "enquiries": []
+}
